@@ -20,5 +20,6 @@ to a series of posts on our company website:
 http://www.itopen.it/category/gis/qgis/qgis-server/
 
 ---
+
 Plugin etracted from https://github.com/elpaso/qgis3-server-vagrant/tree/master/resources/web/plugins/ServerSimpleBrowser
 
